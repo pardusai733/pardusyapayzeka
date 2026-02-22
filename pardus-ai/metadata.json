@@ -1,0 +1,9 @@
+
+{
+  "name": "Pardus AI",
+  "description": "Teknofest takımı Yapan Zekalar tarafından geliştirilen, Gemini tabanlı gelişmiş bir yapay zeka asistanı.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
